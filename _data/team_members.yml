@@ -1,6 +1,6 @@
 - name: Alok Kumar Pan
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
+  photo: #Milan1.jpg
+  info: Assistant professor, started Jan 2015
   email: milan.allan@gmail.com
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
@@ -13,7 +13,7 @@
   photo: #website_pic_willem.jpg
   info: PhD Student, started 201x
   email: email@email.com
-  number_educ: 1
+  number_educ: 2
   education1: 
   education2:
   education3:
