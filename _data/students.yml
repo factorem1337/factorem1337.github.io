@@ -8,16 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
+- name: Shivam Naonit
+  photo: #rock.jpg
   info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  email: shiva@nitp.ac.in
   number_educ: 0
-  education1:
+  education1: NIT Patna
 
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+- name: Abudai 
+  photo: #rock.jpg
+  info: Master Student
+  email: 
   number_educ: 0
   education1:
