@@ -1,13 +1,53 @@
 - name: Alok Kumar Pan
   photo: #Milan1.jpg
-  info: Assistant professor, started Jan 2015
-  email: milan.allan@gmail.com
+  info: Assistant professor
+  email: akp@nitp.ac.in
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: "JSPS Postdoc: November 2012- March 2014 in Nagoya University, Japan"
+  education2: Visiting Scientist: April 2012 - October 2012 in IISER-Kolkata, India
+  education3: "Postdoc: 2011-2012 in CNRS 8089, Paris, France"
+  education4: "Postdoc: 2010-2011 in Pusan National University, South Korea"
+  education5: PhD Bose Institute, Kolkata, India - 2008 
+
+- name: Shyam Sundar Mahato
+  photo: #Amber.png
+  info: PhD Student, started 2018
+  email: sh@email.com
+  number_educ: 2
+  education1: UGC Fellow
+  education2: 
+  education3:
+  education4:
+
+- name: Prabuddha Roy
+  photo: #tjeruk.jpg
+  info: PhD Student, started 2019
+  email: email@email.com
+  number_educ: 2
+  education1: #Master Leiden University with Milan Allan
+  education2: #Casimir PhD fellowship
+  education3:
+  education4:
+
+- name: Rahul Kumar
+  photo: #tjeruk.jpg
+  info: PhD Student, started 2019
+  email: rahul@email.com
+  number_educ: 2
+  education1: #Master Leiden University with Milan Allan
+  education2: #Casimir PhD fellowship
+  education3:
+  education4:
+
+- name: Sumit Mukherjee
+  photo: #tjeruk.jpg
+  info: PhD Student, started 2019
+  email: email@email.com
+  number_educ: 2
+  education1: #Master Leiden University with Milan Allan
+  education2: #Casimir PhD fellowship
+  education3:
+  education4:
 
 - name: Sneha Munshi
   photo: #website_pic_willem.jpg
@@ -19,42 +59,12 @@
   education3:
   education4:
 
-- name: Prabuddha Roy
-  photo: #tjeruk.jpg
-  info: PhD Student, started 201x
-  email: email@email.com
-  number_educ: 2
-  education1: #Master Leiden University with Milan Allan
-  education2: #Casimir PhD fellowship
-  education3:
-  education4:
-
-- name: Sumit Mukherjee
-  photo: #tjeruk.jpg
-  info: PhD Student, started 201x
-  email: email@email.com
-  number_educ: 2
-  education1: #Master Leiden University with Milan Allan
-  education2: #Casimir PhD fellowship
-  education3:
-  education4:
-
-- name: Shyam Sundar Mahato
-  photo: #Amber.png
-  info: PhD Student, started September 201x
-  email: sh@email.com
-  number_educ: 2
-  education1: #Master Applied Physics, TU Delft
-  education2: UGC Fellow
-  education3:
-  education4:
-
 - name: Ritesh Kumar Singh
   photo: #Maialen.png
-  info: PhD Student 
+  info: PhD Student, joined 2022 
   email: riteshcsm1@gmail.com 
   number_educ: 2
-  education1: #Master Leiden University
-  education2: CSIR Fellow
+  education1: CSIR Fellow
+  education2: 
   education3:
   education4:
